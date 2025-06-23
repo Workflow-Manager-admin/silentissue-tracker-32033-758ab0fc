@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/silentissue-tracker-32033-758ab0fc/ticket_frontend_workspace/ticket_frontend"
+}
